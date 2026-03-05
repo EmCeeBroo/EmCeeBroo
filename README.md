@@ -71,4 +71,4 @@ Estructuración profesional de proyectos
 
 📫 Contacto
 
-💼 LinkedIn: ([agrega tu link](https://www.linkedin.com/in/emceecode/))
+💼 LinkedIn: ([https://www.linkedin.com/in/emceecode/](https://www.linkedin.com/in/emceecode/))
