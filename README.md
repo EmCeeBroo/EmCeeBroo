@@ -1,16 +1,74 @@
-## Hi there 👋
+👨‍💻 Alejandro Rudas
+Full Stack Developer | Backend-Focused | Cloud-Oriented
 
-<!--
-**EmCeeBroo/EmCeeBroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software enfocado en la construcción de aplicaciones web robustas, escalables y bien estructuradas. Me especializo en arquitectura backend, diseño de APIs REST, autenticación segura y despliegue en entornos cloud.
 
-Here are some ideas to get you started:
+Trabajo bajo principios de código limpio, separación por capas y buenas prácticas de ingeniería.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+🧠 Lenguajes & Frameworks
+
+JavaScript (Node.js, Express, React)
+
+Java (Spring Boot)
+
+Bootstrap
+
+HTML5, CSS3, TypeScript
+
+🗄️ Bases de Datos
+
+PostgreSQL
+
+MySQL
+
+Modelado relacional
+
+Diseño optimizado de esquemas
+
+☁️ Cloud & DevOps
+
+Despliegues en entornos Linux
+
+Configuración de servidores
+
+Arquitectura cliente-servidor
+
+Integración con sistemas POS
+
+🔐 Seguridad & Arquitectura
+
+JWT Authentication
+
+Control de roles (RBAC)
+
+Arquitectura por capas (Controller, Service, Repository)
+
+Diseño de APIs RESTful
+
+Validaciones y manejo de errores estructurado
+
+🛠️ Proyectos Destacados
+🔹 Sistema de Reservación en la Nube
+
+Aplicación full-stack para gestión de reservas de restaurantes con arquitectura 100% cloud, autenticación segura y administración centralizada.
+
+🔹 E-Commerce Backend
+
+Sistema de autenticación JWT con arquitectura limpia, control de roles y separación por capas siguiendo buenas prácticas profesionales.
+
+🔹 Aplicación Web Full Stack (Card Game Project)
+
+Simulación de entorno profesional aplicando diseño de base de datos, persistencia, seguridad y consumo de API desde frontend.
+
+📈 Actualmente Enfocado En
+
+Optimización de rendimiento backend
+
+Mejores prácticas en diseño de APIs
+
+Estructuración profesional de proyectos
+
+📫 Contacto
+
+💼 LinkedIn: ([agrega tu link](https://www.linkedin.com/in/emceecode/))
