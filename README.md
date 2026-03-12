@@ -2,13 +2,13 @@
   <img src="banner.png" alt="EmCeeCode Banner" width="100%" />
 </div>
 
-# ¡Hola! Soy Alejandro Rudas 👨‍💻
+# Hey, I'm Alejandro Rudas 👨‍💻
 
 > **Full Stack Developer | Backend-Focused | Cloud-Oriented**
 
-Desarrollador de software enfocado en la construcción de aplicaciones web robustas, escalables y bien estructuradas. Me especializo en arquitectura backend, diseño de APIs REST, autenticación segura y despliegue en entornos basados en contenedores.
+Software developer focused on building robust, scalable, and well-structured web applications. I specialize in backend architecture, REST API design, secure authentication, and deployment in containerized environments.
 
-Trabajo bajo principios de código limpio, separación por capas y buenas prácticas de ingeniería.
+I work under principles of clean code, layered separation, and solid engineering practices.
 
 ---
 
@@ -27,59 +27,60 @@ Trabajo bajo principios de código limpio, separación por capas y buenas práct
 
 <br>
 
-#### 🧠 Lenguajes & Ecosistema
+#### 🧠 Languages & Ecosystem
 
 - **Frontend:** JavaScript, React, HTML5, CSS3, Bootstrap, TypeScript
 - **Backend:** Node.js, Express, Java (Spring Boot)
 
-#### 🗄️ Bases de Datos
+#### 🗄️ Databases
 
 - PostgreSQL, MySQL
-- Modelado relacional y diseño optimizado de esquemas
+- Relational modeling and optimized schema design
 
-#### ☁️ Infraestructura & DevOps
+#### ☁️ Infrastructure & DevOps
 
-- Docker & Docker Compose _(Creación y orquestación de contenedores)_
-- Despliegues en entornos Linux y configuración de servidores
-- Arquitectura cliente-servidor
+- Docker & Docker Compose — containerization, networking, volumes, and service orchestration
+- Linux server deployment (Debian) — environment setup, LAN networking, and production release
+- Client-server architecture
 
-#### 🔐 Seguridad & Arquitectura
+#### 🔐 Security & Architecture
 
-- Autenticación JWT y control de acceso basado en roles (RBAC)
-- Arquitectura por capas (Controller, Service, Repository)
-- Diseño de APIs RESTful con validaciones y manejo de errores estructurado
-
----
-
-### 🛠️ Portafolio y Proyectos
-
-Aquí puedes ver algunos de los desarrollos en los que he trabajado. Existen sistemas avanzados que actualmente se encuentran en desarrollo cerrado, pero que dan muestra de las arquitecturas backend con las que trabajo diariamente.
-
-- **[🔹 Aplicación Web Full Stack (Card Game Project)](https://github.com/EmCeeBroo/gameCards)**  
-  Simulación de entorno profesional aplicando diseño de base de datos, persistencia, seguridad y consumo de API desde el frontend. _(Repositorio Público)_
-
-- **[🔹 Aprendiendo Docker Compose](https://github.com/EmCeeBroo/Aprendiendo-Docker-Compose)**  
-  Material de capacitación interactivo que desarrollé y brindé para enseñar desde los fundamentos hasta la orquestación de contenedores en entornos de desarrollo usando Docker Compose. _(Repositorio Público)_
-
-- **🔹 Sistema de Reservación (Renard)** `[🚧 En Construcción - Repositorio Privado]`  
-  Aplicación full-stack para la gestión de reservas de restaurantes. Cuenta con arquitectura web moderna, autenticación segura y una administración centralizada. _(Código actualmente privado durante la fase de desarrollo)_
-
-- **🔹 E-Commerce de Ropa** `[🚧 En Construcción - Repositorio Privado]`  
-  Sistema completo de e-commerce con pasarela de autenticación JWT, arquitectura limpia, control de roles y separación estricta por capas siguiendo estándares profesionales orientados a escalabilidad. _(Código actualmente privado durante la fase de desarrollo)_
+- JWT authentication and role-based access control (RBAC)
+- Layered architecture (Controller, Service, Repository)
+- RESTful API design with structured validation and error handling
 
 ---
 
-### 📈 Actualmente Enfocado En
+### 🛠️ Projects
 
-- 🌱 Profundizando mis conocimientos en **Docker** para despliegues fluidos
-- ⚙️ Optimización de rendimiento backend y consultas complejas de bases de datos
-- 🏗️ Integración de buenas prácticas en la estructuración de proyectos Web
+A selection of the work I've built. Private projects are still under active development, but their descriptions reflect the architectures I work with daily.
+
+- **[🔹 Game Cards — Full Stack Web App](https://github.com/EmCeeBroo/gameCards)**  
+  Turn-based card battle game with warrior selection and automated battle simulation. Built with Node.js, Express, React, MySQL, and Prisma. Features JWT authentication, RBAC, three game modes (1v1, 3v3, 5v5), and a full admin panel with complete CRUD operations.
+
+- **[🔹 Docker Compose — Training Material](https://github.com/EmCeeBroo/Aprendiendo-Docker-Compose)**  
+  Technical content I developed and delivered as a training session for software development students at SENA. Covers Docker fundamentals through service orchestration with Docker Compose, including networking and volumes.
+
+- **🔹 Renard — Reservation System** `[🚧 In Development · Private Repository]`  
+  Full-stack application for restaurant reservation management. Secure authentication, layered architecture, and centralized administration.
+
+- **🔹 Clothing E-Commerce** `[🚧 In Development · Private Repository]`  
+  Full e-commerce system with JWT authentication, role-based access control, clean architecture, and strict layer separation designed for scalability.
 
 ---
 
-### 📫 Conectemos
+### 📈 Currently Working On
 
-Siempre estoy abierto a charlar sobre código, arquitectura en el lado del servidor o increíbles oportunidades de colaboración.
+- 🌱 Going deeper into **Next.js** and modern deployments with Vercel
+- 🤖 Taking **[Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)** — Anthropic's official course on integrating AI into development workflows, covering MCP servers, GitHub automation, hooks, and the Claude Code SDK
+- ⚙️ Backend performance optimization and advanced relational database queries
+- 🏗️ Consolidating architectural best practices in larger-scale web projects
+
+---
+
+### 📫 Let's Connect
+
+Open to talking about code, backend architecture, or collaboration opportunities.
 
 <br>
 
