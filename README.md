@@ -85,7 +85,7 @@ I work under principles of clean code, layered separation, and solid engineering
 
 A selection of the work I've built. Private projects are still under active development, but their descriptions reflect the architectures I work with daily.
 
-- **[🔹 Renard — Reservation System**](https://github.com/EmCeeBroo/renard_2)** `[✅ Completed]`  
+- **[🔹 Renard — Reservation System](https://github.com/EmCeeBroo/renard_2)** `[✅ Completed]`  
    Full-stack restaurant reservation system. Graduation project developed by a 5-person team using Scrum methodology. Features secure auth, layered architecture, and centralized administration.
 
 - **[🔹 Game Cards — Full Stack Web App](https://github.com/EmCeeBroo/gameCards)** `[✅ Completed]` 
