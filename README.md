@@ -55,25 +55,25 @@ I work under principles of clean code, layered separation, and solid engineering
 
 <br>
 
-#### 🧠 **Languages & Ecosystem**
+### 🧠 **Languages & Ecosystem**
 
 - **Frontend:** React · TypeScript · Bootstrap
 - **Backend:** Node.js · Express · Java (Spring Boot) · Python (FastAPI) 
 
 
-#### 🗄️ **Databases**
+### 🗄️ **Databases**
 
 - **PostgreSQL · MySQL**
 - Relational modeling and optimized schema design
 
-#### ☁️ **Infrastructure & DevOps**
+### ☁️ **Infrastructure & DevOps**
 
 - **Docker & Docker Compose** — containerization, networking, volumes, and service orchestration
 - **Linux server deployment (Debian)** — environment setup, LAN networking, and production release
 - **Git & GitHub** - version control (Git Flow), collaborative workflows, and respository management
 - **Client-server architecture**
 
-#### 🔐 **Security & Architecture**
+### 🔐 **Security & Architecture**
 
 - JWT authentication and role-based access control (RBAC)
 - Layered architecture (Controller, Service, Repository)
