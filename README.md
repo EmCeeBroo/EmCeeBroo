@@ -48,6 +48,9 @@ I work under principles of clean code, layered separation, and solid engineering
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />&nbsp;
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />&nbsp;
   <img src="https://img.shields.io/badge/Scrum-009688?style=for-the-badge&logo=bookstack&logoColor=white" alt="SCRUM" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />&nbsp;
 
 </div>
 
@@ -71,6 +74,7 @@ I work under principles of clean code, layered separation, and solid engineering
 - **Docker & Docker Compose** — containerization, networking, volumes, and service orchestration
 - **Linux server deployment (Debian)** — environment setup, LAN networking, and production release
 - **Git & GitHub** - version control (Git Flow), collaborative workflows, and respository management
+- **8n8** - workflow automation for API integration, event triggering, and process orchestration
 - **Client-server architecture**
 
 ### 🔐 **Security & Architecture**
@@ -96,7 +100,7 @@ A selection of the work I've built. Private projects are still under active deve
   Technical content I developed and delivered as a training session for software development students at SENA. Covers Docker fundamentals through service orchestration with Docker Compose, including networking and volumes.
 
 - **[🔹LogyCA Sales Processor - Python + FasAPI + Docker](https://github.com/EmCeeBroo/prueba-tecnica)** 
- `  [🚧 In Development · Public Repository]` 
+ `  [✅ Completed]` 
   High-volume CSV processor using FastAPI, async workers, batch inserts, and PostgreSQL. Currently being containerized with Docker Compose. Next step: integrate n8n for workflow automation. My first hands-on Python project after Meta's course.
 
 - **🔹 Clothing E-Commerce** `[🚧 In Development · Private Repository]`  
